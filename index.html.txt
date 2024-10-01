@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CHEGU KRISHNAMURTHI MADHUBALAJI - Multidisciplinary Problem Solver</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #e0ffe0; /* Light parrot green background */
+            color: #2b3a20; /* Darker green text */
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #00cc44; /* Parrot green */
+            color: white;
+            padding: 20px;
+            text-align: center;
+            font-size: 2em;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            padding: 10px;
+            background-color: #99ff99;
+        }
+        nav a {
+            margin: 0 15px;
+            color: #2b3a20;
+            text-decoration: none;
+            font-size: 1.2em;
+        }
+        section {
+            padding: 20px;
+            text-align: center;
+        }
+        .project, .update {
+            background-color: #cce6cc;
+            margin: 20px;
+            padding: 15px;
+            border-radius: 10px;
+        }
+        footer {
+            background-color: #00cc44;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        .social-media a {
+            margin: 0 10px;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        CHEGU KRISHNAMURTHI MADHUBALAJI
+        <p>Person with Multidisciplinary Problem-Solving Approach</p>
+    </header>
+
+    <nav>
+        <a href="#about">About Me</a>
+        <a href="#projects">Projects</a>
+        <a href="#updates">Updates</a>
+        <a href="#contact">Contact</a>
+        <a href="#resume">Resume</a>
+    </nav>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>
+            I am a passionate researcher and problem-solver with a multidisciplinary approach. My work spans across biotechnology, data science, biomass valorization, and more. I strive to develop innovative solutions to complex global challenges.
+        </p>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Project 1: Hydrodynamic Cavitation for Fucoxanthin Extraction</h3>
+            <p>Focused on enhancing the extraction of bioactive compounds using sustainable technology while creating circular economic benefits.</p>
+        </div>
+        <div class="project">
+            <h3>Project 2: Biodegradable Films for Liquid Detergent Packaging</h3>
+            <p>Developing eco-friendly packaging solutions aimed at reducing plastic waste through innovative material science.</p>
+        </div>
+    </section>
+
+    <section id="updates">
+        <h2>Updates</h2>
+        <div class="update">
+            <p>🚀 Excited to announce my recent collaboration with Frenvi India Pvt. Ltd. on sustainable biomaterials.</p>
+        </div>
+        <div class="update">
+            <p>📢 Upcoming publication on using tea spent waste for plant growth enhancement!</p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Info</h2>
+        <p>Email: <a href="mailto:chegu.madhubalaji@example.com">chegu.madhubalaji@example.com</a></p>
+        <div class="social-media">
+            <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank">Google Scholar</a> |
+            <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">LinkedIn</a>
+        </div>
+    </section>
+
+    <section id="resume">
+        <h2>Resume</h2>
+        <p>Click to download: <a href="your_resume_link.pdf" target="_blank">Download Resume</a></p>
+    </section>
+
+    <footer>
+        <p>Connect with me: <a href="mailto:chegu.madhubalaji@example.com">chegu.madhubalaji@example.com</a></p>
+    </footer>
+</body>
+</html>
